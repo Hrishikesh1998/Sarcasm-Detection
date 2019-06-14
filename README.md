@@ -1,2 +1,2 @@
 # Sarcasm-Detection
-Name says it all.
+Sarcasm detection of a dataset of tweets.
